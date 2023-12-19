@@ -1,1 +1,1 @@
-{"version":"1.0.8","news":"Added"}
+{"version":"1.0.8","news":"Added breakdown function, now supporting ESX"}
