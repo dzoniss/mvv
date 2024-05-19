@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Fixed missing SQL"}
+{"version":"1.0.3","news":"- Remade the jobs table \n - Added ADMIN access"}
